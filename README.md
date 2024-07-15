@@ -32,3 +32,14 @@ Project Search is a front-end replica of Google's search functionalities. This p
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling to replicate Google's design.
 - **JavaScript**: For form submission and URL manipulation.
+
+## 🚀 Getting Started
+
+1. **Download the Project**
+   - Clone the repository: `git clone https://github.com/yourusername/project-search.git`
+
+2. **Open `index.html` with Live Server**
+   - Navigate to the project directory and open `index.html` with a live server extension in your code editor.
+
+3. **Try Typing Something in the Search Bar**
+   - For example, searching for "Harvard" will direct you to [Google search results for Harvard](https://www.google.com/search?q=Harvard).
