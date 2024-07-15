@@ -4,7 +4,7 @@
 
 Project Search is a front-end replica of Google's search functionalities. This project includes creating a user-friendly interface for Google Search, Google Image Search, and Google Advanced Search, mimicking Google's clean and intuitive design.
 
-## 🌟 Features
+## Features 🌟
 
 1. **Google Search Page** 🕵️‍♂️
    - A central search bar with rounded corners.
@@ -27,13 +27,13 @@ Project Search is a front-end replica of Google's search functionalities. This p
    - Stacked vertically aligned text fields.
    - A link to return to the main Google Search page in the upper-right corner.
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling to replicate Google's design.
 - **JavaScript**: For form submission and URL manipulation.
 
-## 🚀 Getting Started
+## Getting Started 🚀
 
 1. **Download the Project**
    - Clone the repository: `git clone https://github.com/yourusername/project-search.git`
